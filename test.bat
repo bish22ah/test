@@ -4,5 +4,3 @@ echo test
 
 exit /b 0
 
-
-
