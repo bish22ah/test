@@ -2,5 +2,5 @@
 
 echo test
 
-exit /b 0
+exit /b -1
 
